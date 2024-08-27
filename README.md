@@ -4,6 +4,10 @@
 
 The goal of this project is to build a machine learning model to classify images of cats and dogs. Initially, an SVM model is trained on the dataset, but due to overfitting and high computational requirements, alternative approaches are considered for future work.
 
+## Dataset
+
+- [Dogs vs. Cats Dataset on Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data)
+
 ## Challenges
 
 During the project, several challenges were encountered:
